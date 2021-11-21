@@ -1,0 +1,23 @@
+#family_member_image{
+height: 500;
+width: 500;
+border-width: 6px;
+border-color: blue;
+} 
+  #name {
+
+    font-size: 30px;
+    line-height: 1.2;
+    font-family:
+        'cinzel decorative', cursive;
+  }
+
+  body {
+  
+    background: linear-gradient(90deg, rgba(190,143,143,1) 0%, rgba(255,223,223,1) 35%, rgba(255,255,255,1) 100%);
+  }
+
+  #button{
+      background-color: blue;
+      color: white;
+  }
